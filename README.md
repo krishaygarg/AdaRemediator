@@ -5,7 +5,7 @@
 [![CI](https://github.com/krishaygarg/ada_pdf_remediation/actions/workflows/ci.yml/badge.svg)](https://github.com/krishaygarg/ada_pdf_remediation/actions/workflows/ci.yml)
 [![PDF/UA-1](https://img.shields.io/badge/PDF%2FUA--1-verified%20by%20veraPDF-0f766e)](https://verapdf.org/)
 [![Matterhorn](https://img.shields.io/badge/Matterhorn-42%20conditions-0f766e)](https://pdfa.org/resource/matterhorn-protocol/)
-[![Python](https://img.shields.io/badge/python-3.10%20to%203.14-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.10%20to%203.15-blue)](https://www.python.org/)
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
